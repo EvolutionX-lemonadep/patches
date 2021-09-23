@@ -1,0 +1,2 @@
+soong.patch :
+- Fixes a kernel build issue where the compilation fails giving the reason that some android-as-* commands are blacklisted to use.

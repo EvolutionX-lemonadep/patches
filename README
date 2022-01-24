@@ -1,2 +1,5 @@
 soong.patch :
 - Fixes a kernel build issue where the compilation fails giving the reason that some android-as-* commands are blacklisted to use.
+
+verizon.patch :
+- framework/opt/telephony patch which apparently fixes verizon sim cards
